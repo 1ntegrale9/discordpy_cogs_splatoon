@@ -1,6 +1,5 @@
 from discord.ext import commands
 import aiohttp
-import io
 
 class Spla2API(commands.Cog):
     def __init__(self, bot):
